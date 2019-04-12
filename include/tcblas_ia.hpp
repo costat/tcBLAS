@@ -6,7 +6,6 @@
 #define _TCBLAS_IA_H_
 
 #include "xbyak/xbyak.h"
-#include "tcblas_util.hpp"
 
 ////////////////////////////
 //--- LEVEL 3 ROUTINES ---//
